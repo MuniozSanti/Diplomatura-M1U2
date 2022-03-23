@@ -3,3 +3,7 @@ pan
 gaseosa
 huevos
 leche
+agrego 
+texto 
+para
+probar
